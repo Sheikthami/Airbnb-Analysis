@@ -1,0 +1,5 @@
+1. streamlit
+2. streamlit_option_menu
+3. plotly.express
+4. pandas
+5. matplotlib
